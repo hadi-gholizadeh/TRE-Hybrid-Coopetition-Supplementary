@@ -2,7 +2,7 @@
 
 This repository contains the supplementary technical material associated with the manuscript:
 
-"Hybrid Competitive–Cooperative Dynamic Pricing under Carbon Regulations"
+"Coopetitive Multi-Echelon Supply Chain Network Design under Carbon Regulation: A Bi-Level Game-Theoretic Framework with Dynamic Pricing"
 
 submitted to Transportation Research Part E: Logistics and Transportation Review.
 
